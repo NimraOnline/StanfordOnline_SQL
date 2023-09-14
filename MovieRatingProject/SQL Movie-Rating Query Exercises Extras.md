@@ -1,4 +1,4 @@
-###Your queries are executed using SQLite, so you must conform to the SQL constructs supported by SQLite.
+### Your queries are executed using SQLite, so you must conform to the SQL constructs supported by SQLite.
 
 1. Find the names of all reviewers who rated Gone with the Wind.
 ```sql
